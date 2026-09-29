@@ -5,5 +5,5 @@
 🚀 Learning, Building & Exploring
 
 ## 🌐 My Portfolio
-https://deekshareddy719-ship-it.github.io/DeEksha_website/#projects
+ https://deekshareddy719-ship-it.github.io/MY_portfolio/
 [Visit My Portfolio]()
