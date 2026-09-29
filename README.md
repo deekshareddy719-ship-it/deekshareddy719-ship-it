@@ -5,5 +5,5 @@
 🚀 Learning, Building & Exploring
 
 ## 🌐 My Portfolio
-https://myportfolio08-sooty.vercel.app/
+https://deekshareddy719-ship-it.github.io/DeEksha_website/#projects
 [Visit My Portfolio]()
